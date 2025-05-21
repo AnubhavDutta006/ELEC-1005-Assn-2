@@ -10,4 +10,4 @@ The validity of the login credentials is verified by three user IDs in SharePoin
 22/05/2025
 Arjun Pillai
 The navigation across the pages has been developed and Power Automate for saving images and posts to sharepoint has been created. 
-Users can now move across all pages and should soon be able to send posts in the community section of the App
+Users can now move across all pages and should soon be able to send posts in the community section of the App.
