@@ -11,3 +11,9 @@ The validity of the login credentials is verified by three user IDs in SharePoin
 Arjun Pillai
 The navigation across the pages has been developed and Power Automate for saving images and posts to sharepoint has been created. 
 Users can now move across all pages and should soon be able to send posts in the community section of the App.
+
+22/05/2025
+Liam Abdallah
+I built a dynamic cart display, showing items with quantities greater than zero, and added individual plus and minus buttons to easily adjust each item's quantity. 
+I also included a cart summary, which displays the total quantity (showing "0 items" if empty) and the total price (displaying "$0.00" when empty). 
+Finally, I implemented a "Clear Cart" button to reset all item quantities to zero.
