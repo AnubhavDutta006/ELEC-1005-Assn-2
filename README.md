@@ -17,3 +17,8 @@ Liam Abdallah
 I built a dynamic cart display, showing items with quantities greater than zero, and added individual plus and minus buttons to easily adjust each item's quantity. 
 I also included a cart summary, which displays the total quantity (showing "0 items" if empty) and the total price (displaying "$0.00" when empty). 
 Finally, I implemented a "Clear Cart" button to reset all item quantities to zero.
+
+23/05/2025
+Arjun Pillai
+Developed the Gallery setting for bookmarking and worked on the posting functionality of the website. 
+Able to bookmark and view information more efficiently. Can also view and post text, with images proving harder to give to Sharepoint.
