@@ -41,3 +41,10 @@ Anubhav Dutta
 23/05/2025
 Created new pages for the events, added functionality for the bookmarks to highlight the tabs when hovered over and redirecting the user to the main events info page once bookmarked,
 }
+
+
+24/05/2025
+Finished posting and updating to sharepoint with test cases. Improved UI for galleries and submission pages to allow multiple users to post and share updates.
+
+
+
