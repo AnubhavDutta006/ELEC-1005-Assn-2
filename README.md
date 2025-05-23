@@ -22,3 +22,7 @@ Finally, I implemented a "Clear Cart" button to reset all item quantities to zer
 Arjun Pillai
 Developed the Gallery setting for bookmarking and worked on the posting functionality of the website. 
 Able to bookmark and view information more efficiently. Can also view and post text, with images proving harder to give to Sharepoint.
+
+23/05/2025
+Anubhav Dutta
+Created new pages for the events, added functionality for the bookmarks to highlight the tabs when hovered over and redirecting the user to the main events info page once bookmarked,
