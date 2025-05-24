@@ -46,5 +46,7 @@ Created new pages for the events, added functionality for the bookmarks to highl
 24/05/2025
 Finished posting and updating to sharepoint with test cases. Improved UI for galleries and submission pages to allow multiple users to post and share updates.
 
-
+25/05/2025
+Finished editing UI interface to make it more efficient and remove the blue highlights or issues with scrolling. 
+Also helped to finalise the logout and bookmarks tabs, as well as cleaning up th eposting section.
 
