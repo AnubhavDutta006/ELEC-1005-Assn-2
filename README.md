@@ -22,7 +22,6 @@ The navigation across the pages has been developed and Power Automate for saving
 Users can now move across all pages and should soon be able to send posts in the community section of the App.
 
 23/05/2025
-Arjun Pillai
 Developed the Gallery setting for bookmarking and worked on the posting functionality of the website. 
 Able to bookmark and view information more efficiently. Can also view and post text, with images proving harder to give to Sharepoint.
 
