@@ -13,6 +13,9 @@ An AI chat interface was built using a custom GPT connector. When the user enter
 
 24/05/2025
 Added testcases of Add to cart, Login and signup
+
+24/05/2025
+Added bookmark feature in the events page. If user clicks the bookmark icon, the icon changes it's color and saves the bookmarked event info in the sharepoint. Then at the other page, it filters out the event that has been bookmarked in the sharepoint and views it. At the page, you can use - button to delete the event from the page. Then if we go back to the events page after the deletion, we can see that bookmark icon has been changed again.
 }
 
 Arjun Pillai
