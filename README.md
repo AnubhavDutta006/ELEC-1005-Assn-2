@@ -25,6 +25,16 @@ Users can now move across all pages and should soon be able to send posts in the
 Arjun Pillai
 Developed the Gallery setting for bookmarking and worked on the posting functionality of the website. 
 Able to bookmark and view information more efficiently. Can also view and post text, with images proving harder to give to Sharepoint.
+
+24/05/2025
+Finished posting and updating to sharepoint with test cases. Improved UI for galleries and submission pages to allow multiple users to post and share updates.
+
+25/05/2025
+Finished editing UI interface to make it more efficient and remove the blue highlights or issues with scrolling. 
+Also helped to finalise the logout and bookmarks tabs, as well as cleaning up the posting section.
+
+25/5/2025
+Edited navigation features for new community and events posting as well as developing the dropdown bar for navigating to bookmarks or logging out.
 }
 
 
@@ -36,6 +46,7 @@ I also included a cart summary, which displays the total quantity (showing "0 it
 Finally, I implemented a "Clear Cart" button to reset all item quantities to zero.
 }
 
+
 Anubhav Dutta
 {
 23/05/2025
@@ -43,10 +54,6 @@ Created new pages for the events, added functionality for the bookmarks to highl
 }
 
 
-24/05/2025
-Finished posting and updating to sharepoint with test cases. Improved UI for galleries and submission pages to allow multiple users to post and share updates.
 
-25/05/2025
-Finished editing UI interface to make it more efficient and remove the blue highlights or issues with scrolling. 
-Also helped to finalise the logout and bookmarks tabs, as well as cleaning up th eposting section.
+
 
