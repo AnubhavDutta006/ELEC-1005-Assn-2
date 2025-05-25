@@ -53,6 +53,17 @@ Created new pages for the events, added functionality for the bookmarks to highl
 }
 
 
+Rajdip Shah
+{
+24/05/2025
+Implemented the chat feature. On the searchBar, we can now search for people in the userbase and message them, even if we haven't texted them before. We can also search in the chats for specific texts, and the chats that contain those texts will be filtered and shown. Along with this, I also added a lot of other flagship messaging app features like showing how long ago the last message was sent and what the last message was. "you: " comes before every text that we've sent to make it easier to identify.
+I also worked on events, designing the events ui, and all the backend such that events can be bookmarked and registered to. All the event impormation is shown consisely. 
+I then worked on the community page, desgning the UI and structuring the backend to be able to show community posts and all relevant information. 
+I then worked on the Create a post page, where we can create an event or a community post.
+
+}
+
+
 
 
 
